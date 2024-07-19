@@ -1,4 +1,5 @@
 ﻿# Learning-Inventery
+ ![image](https://github.com/user-attachments/assets/33c53cd1-c257-497e-a4d6-d0ab568f279a)
 ![image](https://github.com/user-attachments/assets/e08727fd-a1d4-41a9-b8db-d98282fff3d7)
 ![image](https://github.com/user-attachments/assets/9341a815-38df-494a-b756-9e9d2740a421)
 ![image](https://github.com/user-attachments/assets/7b856463-3441-4400-80d7-3042e77c6884)
